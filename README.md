@@ -1,4 +1,4 @@
-# ECGR-2104
+# ECGR-2104-Computer_Engineering_II
 Contains the projects from my ECGR 2104 Computer Engineering II class. All code is written in C++ with some C header files.
 
 ## 1. Flight Tracker
